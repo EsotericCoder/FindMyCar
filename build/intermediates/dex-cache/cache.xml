@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_9375bc2f1efc1e6a08f563266207a3b761d3bba5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_55948be35b11d0deea0d0947f9828fe54ae24b10/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_9068e5f19d351657f7ce77bc16b362ce87089654/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_2acd4331c6a95a5229dad6e46cb703e87f6d6c16/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_bd0a4836a071c297201797cf9278b749bbb560c0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_b2c432b5bfb567293c8bc2dbb287f5a29ac6a01d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_9016d2e2a24397fd50b74fd63222f8262d7ef9d8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_8ba62aea72834ede8882a59bf270ee8b42cd4013/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_cf5664cbb004d0969af530eb65cd8a432a83eca6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_96b95ab9890b150a32020307e2a3593c68c4f7b0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_332a3da3836ef1d015c1c3d8746597a6319b38f5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7eeaaf8963d3efc67e2ae93f52b9c65421393a30">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8523e56bd87fbb56bda5ed3f5f4f10ad66fd594d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_c1acc16094781e9892247e7cbd7a7363c17ed913/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_c802d5e9f061591d5e9a2b0e829d931ba288124c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_75813eb9fe7fbf1fa573ba3c4baeb935de0aef77/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2ef578db9bee62c9157f42e88f9be5b02b4dbfd1">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2dc7047fba4d92a89e97c07e796936ebc5cf4324/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_e9577cd3beffcc09299db06da7703bfa54174005/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_3af4488449d6dfb9a8f30299f89722c98d8767eb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_abe054e1aed7deee6165c9109b3b408b60109720/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.0_1a46511832acebc00742f03578e66e34ca817863/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_8cfed1e5f9adc62745b46904b2b348aa01d1f1f4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_142ee1aa11bad21ea071efaa094644274bb0a0ab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="/Users/williamkim/AndroidStudioProjects/FindMyCar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.0_693f3d1a46ee12ee8172668c89bbf37ec8db6a27/classes.dex" />
+    </item>
+
+</items>

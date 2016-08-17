@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="DefaultEditText" parent="@android:style/Widget.EditText">
+        <item name="android:layout_marginTop">@dimen/activity_vertical_margin</item>
+        <item name="android:paddingStart">@dimen/edittext_padding</item>
+    </style>
+
+    <style name="ActionTextButton" parent="@android:style/Widget.TextView">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:textColor">@color/textButtonColor</item>
+    </style>
+</resources>
